@@ -36,7 +36,7 @@ function App() {
 // - Network
 // - Actualizar con F5 informacion de API Digimon 
 // - Seleccionar nombre de api "digimon"
-// - Datos: name, img, level y seleccionar para mostrar los datos correspondiente 
+// - Datos: name, img, level y seleccionar para mostrar los datos correspondiente al parrafo 23 digimon.level 
 
 
 export default App;
